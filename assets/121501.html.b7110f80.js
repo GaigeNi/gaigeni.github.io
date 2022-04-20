@@ -1,0 +1,1 @@
+const t={key:"v-34f258c2",path:"/theme/blogs/category1/2018/121501.html",title:"first page in category1",lang:"en-US",frontmatter:{title:"first page in category1",date:"2018/12/15",tags:["tag1"],categories:["category1"]},excerpt:"",headers:[],git:{},filePathRelative:"theme/blogs/category1/2018/121501.md"};export{t as data};

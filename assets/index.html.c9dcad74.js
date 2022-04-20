@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as s,b as a,d as o}from"./app.6b480602.js";const _={},c={id:"sql",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#sql","aria-hidden":"true"},"#",-1),n=o(" SQL"),d=[r,n];function i(h,l){return t(),s("h1",c,d)}var x=e(_,[["render",i],["__file","index.html.vue"]]);export{x as default};

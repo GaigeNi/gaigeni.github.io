@@ -1,0 +1,1 @@
+const e={key:"v-bd2d27e2",path:"/theme/docs/theme-reco/plugin.html",title:"plugin",lang:"en-US",frontmatter:{title:"plugin",date:"2020/05/28"},excerpt:"",headers:[],git:{},filePathRelative:"theme/docs/theme-reco/plugin.md"};export{e as data};

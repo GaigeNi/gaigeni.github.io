@@ -1,0 +1,1 @@
+import{_ as e,o as c,a as r}from"./app.6b480602.js";const t={};function _(a,n){return c(),r("p",null,"second page in category2")}var l=e(t,[["render",_],["__file","092101.html.vue"]]);export{l as default};
